@@ -7,8 +7,24 @@
         "id": "bbc4a8c09ac09971",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "content/ru/kontakti.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "0c9a0cafd5408e5b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "content/ru/mesto_provedeniya.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -28,6 +44,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "content/ru/mesto_provedeniya.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -113,6 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "content/ru/mesto_provedeniya.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,6 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "content/ru/mesto_provedeniya.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +169,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "content/ru/mesto_provedeniya.md"
+              }
             }
           }
         ]
@@ -160,8 +181,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "bbc4a8c09ac09971",
+  "active": "0c9a0cafd5408e5b",
   "lastOpenFiles": [
+    "content/ru/mesto_provedeniya.md",
+    "content/ru/otkaz_ot_otvetstvennosti.md",
+    "content/ru/kontakti.md",
+    "content/bileti.me.md",
     "bileti.me.md",
     "en.bileti.me.md",
     "README.md"
